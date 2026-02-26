@@ -1,7 +1,7 @@
 const projects = {
   "18now": {
     title: "18Now — All-in-One Golf App",
-    img: "./assets/images/game.png",
+    img: "./assets/images/18-now-thumbnail.png",
     desc: "All-in-one golf app allowing users to book tee times, leave reviews, track scores, connect with other golfers.",
     links: [
       { label: "Live Demo", href: "https://18now.netlify.app/" }
