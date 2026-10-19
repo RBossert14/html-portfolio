@@ -1,4 +1,20 @@
 const projects = {
+  "bookshelf": {
+    title: "Personal Bookshelf — Interactive Reading Tracker",
+    img: "./assets/images/bookshelf.png",
+    desc: "Interactive bookshelf for tracking your reading. Organize books on shelves, rate them and keep notes, set a yearly reading goal, and share your shelf with friends.",
+    links: [
+      { label: "GitHub Repo", href: "https://github.com/RBossert14/personal-bookshelf" }
+    ]
+  },
+  "inventory-tracker": {
+    title: "Resale Inventory Tracker with Image Classification",
+    img: "./assets/images/inventory-tracker.png",
+    desc: "Inventory app for tracking sports cards and clothing being resold. Organize items by category, track whether each is listed or sold, and upload a photo to get a suggested category and condition.",
+    links: [
+      { label: "GitHub Repo", href: "https://github.com/RBossert14/personal-inventory-tracker" }
+    ]
+  },
   "18now": {
     title: "18Now — All-in-One Golf App",
     img: "./assets/images/18-now-thumbnail.png",
