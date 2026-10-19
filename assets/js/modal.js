@@ -1,6 +1,6 @@
 const projects = {
   "bookshelf": {
-    title: "Personal Bookshelf — Interactive Reading Tracker",
+    title: "Personal Interactive Bookshelf",
     img: "./assets/images/bookshelf.png",
     desc: "Interactive bookshelf for tracking your reading. Organize books on shelves, rate them and keep notes, set a yearly reading goal, and share your shelf with friends.",
     links: [
@@ -8,7 +8,7 @@ const projects = {
     ]
   },
   "inventory-tracker": {
-    title: "Resale Inventory Tracker with Image Classification",
+    title: "Personal Inventory Tracker",
     img: "./assets/images/inventory-tracker.png",
     desc: "Inventory app for tracking sports cards and clothing being resold. Organize items by category, track whether each is listed or sold, and upload a photo to get a suggested category and condition.",
     links: [
@@ -16,15 +16,16 @@ const projects = {
     ]
   },
   "18now": {
-    title: "18Now — All-in-One Golf App",
+    title: "18Now",
     img: "./assets/images/18-now-thumbnail.png",
     desc: "All-in-one golf app allowing users to book tee times, leave reviews, track scores, connect with other golfers.",
+    note: "*Database no longer active",
     links: [
       { label: "Live Demo", href: "https://18now.netlify.app/" }
     ]
   },
   "quiz-game": {
-    title: "Interactive Multi-User Quiz Game",
+    title: "Interactive Multi-Platform Quiz Game",
     img: "./assets/images/game.png",
     desc: "Part of Senior Capstone Project - developed a Kahoot-style quiz game with a spy theme. Cross-platform compatibility (phones, tablets, laptops, etc.), low-latency communication via an in-game chatbox, and a Unity game functionality, accompanied by a standard web application frontend.",
     note: "*Server no longer online",
@@ -33,7 +34,7 @@ const projects = {
     ]
   },
   "legacy-refactor": {
-    title: "Legacy Code Refactoring Research",
+    title: "Legacy Code Refactoring",
     img: "./assets/images/legacy-refactoring.png",
     desc: "Part of Software Engineering I - tasked with refactoring legacy codebases in various programming languages. Large research document (50+ pages). Worked in a small group environment following agile methodologies.",
     links: [
